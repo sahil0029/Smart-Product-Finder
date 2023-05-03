@@ -1,4 +1,5 @@
-# Aritificial Intelligence Mini Project 18CSC305J Guided by: Dr. Deeba Kannan 
+# Aritificial Intelligence Mini Project 18CSC305J 
+# Guided by: Dr. Deeba Kannan 
 
 # Smart Product Finder
 
@@ -14,7 +15,7 @@ The system works by analyzing various data points, such as customers' purchase h
 
 There are different types of product recommendation systems, including collaborative filtering, content-based filtering, and hybrid systems. Collaborative filtering relies on the behavior of similar users to make recommendations, while content-based filtering analyzes the characteristics of products to make suggestions. Hybrid systems combine both approaches to provide more accurate and diverse recommendations.
 
-# Refernces
+# References
 The dataset here is taken from the below website. 
 
 Source - https://www.kaggle.com/code/shawamar/product-recommendation-system-for-e-commerce
