@@ -3,6 +3,12 @@
 
 # Smart Product Finder
 
+# Team Members:
+
+1. Rishabh Singh Sahil (RA2011003011334)
+2. Abhishek Verma (RA2011003011341)
+3. Nikhil Kar (RA2011003011346)
+
 # Problem Statement  
 
 Problem Statement: With the rise of online shopping and the abundance of products available, customers can quickly become overwhelmed and frustrated with the product selection process. Traditional search methods can be time-consuming and often do not provide personalized results, leading to a poor customer experience. As a result, businesses need a more efficient and effective way to help customers navigate their product offerings and make informed purchasing decisions. A product recommendation system can help address this problem, but developing a recommendation system that accurately predicts customer preferences and provides relevant suggestions remains a challenge. Therefore, the problem statement is to design and implement a product recommendation system that can provide personalized and accurate product recommendations, improving the customer experience and increasing sales for businesses.
